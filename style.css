@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: rgb(211, 202, 150);
+    cursor: default;
+}
+h2{
+    text-decoration: underline;
+}
+.restart-btn{
+    font-size: x-large;
+}
+nav{
+    font-size: x-large;
+    background-color: aquamarine;
+}
+div,#submit-button{
+    font-size: 15px;
+    margin-top: 10px;
+}
+#input-field{
+    height: 25px;
+    font-size: large;
+    width: 130px;
+    background-color: rgb(124, 163, 150);
+    text-align: center;
+}
+#submit-button{
+    background-color: chocolate;
+    border: 2px solid red;
+    font-size: 20px;
+}
